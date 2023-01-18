@@ -1,0 +1,129 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996783510
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996783510
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996783510
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996783510
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://www.carranoimoveis.com.br/imovel/detalhes/AP0103-CBFK
+LinkBehaviour_432DFE7B_4C02_92DD_41D4_5C5BAB1AD98A.source = https://www.carranoimoveis.com.br/imovel/detalhes/AP0103-CBFK
+LinkBehaviour_0EC8CA5C_1EBD_F1A2_41B0_717140FE12E8.source = https://www.escritolandia.com.br/
+LinkBehaviour_106F98E3_1E9C_1266_41B5_1E696ED9292C.source = https://www.escritolandia.com.br/
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/imobiliariacarrano
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/imobiliariacarrano
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Barauto+Autom%C3%B3veis/@-27.5745789,-48.6139739,15z/data=!4m2!3m1!1s0x0:0xc02c5df099a8c9a9?sa=X&ved=2ahUKEwiCgcm01Pb7AhU_LbkGHW6yC54Q_BJ6BAhOEAg
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Barauto+Autom%C3%B3veis/@-27.5745789,-48.6139739,15z/data=!4m2!3m1!1s0x0:0xc02c5df099a8c9a9?sa=X&ved=2ahUKEwiCgcm01Pb7AhU_LbkGHW6yC54Q_BJ6BAhOEAg
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/carranoimoveis/
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/carranoimoveis/
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = //www.youtube.com/embed/STMMwxI17z8
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = //www.youtube.com/embed/STMMwxI17z8
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_DD37334E_C544_7823_41E5_E5279B56C250.text = Apartamento 401
+HotspotPanoramaOverlayTextImage_DC562918_C543_C82F_41E7_2A4200B4A3BB.text = Garagem
+HotspotPanoramaOverlayTextImage_DC6AB50F_C54C_D821_41C7_589D88C4456A.text = Ático
+
+## Media
+
+### Audio
+audio_C8AC9AA1_C54C_C860_41E2_CBCCF7B5F341.path = null
+audio_CEB4044A_C544_D820_41A6_58B20C9A078D.path = null
+audiores_DC15CBD1_C6DC_4821_41E7_17CAB9CD2A69.mp3Url = media/audio_C8AC9AA1_C54C_C860_41E2_CBCCF7B5F341_pt.mp3
+audiores_DC15CBD1_C6DC_4821_41E7_17CAB9CD2A69.oggUrl = media/audio_C8AC9AA1_C54C_C860_41E2_CBCCF7B5F341_pt.ogg
+audiores_DFA41971_C6DC_48E0_419D_4A41364B0833.mp3Url = media/audio_CEB4044A_C544_D820_41A6_58B20C9A078D_pt.mp3
+audiores_DFA41971_C6DC_48E0_419D_4A41364B0833.oggUrl = media/audio_CEB4044A_C544_D820_41A6_58B20C9A078D_pt.ogg
+
+### Image
+imlevel_DFD1E330_C6C4_D860_41E1_D2D27A6975F9.url = media/panorama_CFD58FE8_C53C_47EF_41A2_CEAA8E3A069B_HS_8jcqapvp_pt.png
+imlevel_DFD34302_C6C4_D820_41DE_C8B01F2AFC4A.url = media/panorama_CFD58FE8_C53C_47EF_41A2_CEAA8E3A069B_HS_u7diou5y_pt.png
+imlevel_DFB722D2_C6C4_D820_41D4_DA63C51EF954.url = media/panorama_CFD58FE8_C53C_47EF_41A2_CEAA8E3A069B_HS_xx89ssx0_pt.png
+
+### Title
+panorama_CB812FBC_C55C_4867_4174_65E15BFAC7B3.label = 1 teste afinyty-DeNoiseAI-standard
+panorama_CFD5E572_C53C_58E0_41D5_22614C94075E.label = 10-DeNoiseAI-standard
+panorama_CFD5AE9A_C53C_4820_41B9_65A7046953E8.label = 11-DeNoiseAI-standard
+panorama_CFD4366A_C53D_B8E0_41C8_F918205225EB.label = 12-DeNoiseAI-standard
+panorama_CFD4BE1C_C53D_C827_41C5_4C715ECDF143.label = 13-DeNoiseAI-standard
+panorama_CFD495AD_C53D_D860_4185_DFE9B81A9E89.label = 14-DeNoiseAI-standard
+panorama_CFD49D2F_C53D_C860_41E0_2382B3B60F10.label = 15-DeNoiseAI-standard
+panorama_CFD45492_C53D_F820_41D1_00AF688820F1.label = 16-DeNoiseAI-standard
+panorama_CFD4EC05_C53D_C820_41E4_AE3735A86654.label = 17-DeNoiseAI-standard
+panorama_CFD4EB19_C53D_C820_41D3_213AB06A65DA.label = 18-DeNoiseAI-standard
+panorama_CFD48433_C53D_D860_41E6_BD1A0DDC1D55.label = 18.1-DeNoiseAI-standard
+panorama_CFD4E22E_C53D_B860_41DD_BAF3FE009DAE.label = 19-DeNoiseAI-standard
+panorama_CB7D635C_C55D_B820_41E6_434EE6ACCB77.label = 2-DeNoiseAI-standard
+panorama_CFD4A905_C53C_4821_41E8_4A57284BD5D4.label = 20-DeNoiseAI-standard
+panorama_CFD4F0F5_C53C_59E1_41D9_F783D51B917F.label = 21-DeNoiseAI-standard
+panorama_DD66D0D1_C6CC_5821_41CF_8EE76D5E2108.label = 22-DeNoiseAI-standard
+panorama_CFD4BFDA_C53C_4823_41CB_350F838F08E5.label = 23-DeNoiseAI-standard
+panorama_DD8C229D_C6C5_B820_41E4_1DE3D5850392.label = 24-DeNoiseAI-standard
+panorama_DCBB6473_C6CC_F8E0_41E1_E1A32EB24DFA.label = 25-DeNoiseAI-standard
+panorama_CFD306BE_C53C_5860_41D3_93863C815E30.label = 26-DeNoiseAI-standard
+panorama_CFD31DD3_C53C_4820_41C9_41831924AE8E.label = 27-DeNoiseAI-standard
+panorama_CFD344F8_C53C_B9EF_41E0_4E41397B867B.label = 28-DeNoiseAI-standard
+panorama_CFD31C2C_C53C_C867_41D4_D5682860C84A.label = 29-DeNoiseAI-standard
+panorama_DD068006_C6CC_5820_41E2_7AA980DD3F3B.label = 3.1-DeNoiseAI-standard
+panorama_CFD343FD_C53C_DFE1_41C9_B182A870E24B.label = 30-DeNoiseAI-standard
+panorama_DDC69EB1_C6C4_4860_41C2_2A9E29ECB379.label = 31-DeNoiseAI-standard
+panorama_CFD293EC_C53C_FFE7_41C9_8F1F0CF87425.label = 32-DeNoiseAI-standard
+panorama_CFD36B21_C53C_C861_41C5_267D1736D021.label = 33-DeNoiseAI-standard
+panorama_CFD14245_C53C_D820_41C1_64D4FA17619F.label = 34-DeNoiseAI-standard
+panorama_CFD279A8_C53C_C86F_41B2_15A86661A706.label = 35-DeNoiseAI-standard
+panorama_CFD427F8_C53C_47E0_41E7_A125876D3AAB.label = 4.2-DeNoiseAI-standard
+panorama_CFD58FE8_C53C_47EF_41A2_CEAA8E3A069B.label = 5-DeNoiseAI-standard
+panorama_CFD556BE_C53C_5863_41C9_E6C05EDC501A.label = 6-DeNoiseAI-standard
+panorama_CFD59EFB_C53C_49E0_41E5_08C9A9427062.label = 7-DeNoiseAI-standard
+panorama_CFD4162F_C53C_7860_41DB_3947597D285F.label = 8-DeNoiseAI-standard
+panorama_CFD5CD83_C53C_4821_41DB_37A2851A1E1C.label = 9-DeNoiseAI-standard
+panorama_D653D535_C5CF_D861_41E8_1D28A9BE40C0.label = aerea 2-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = FALE CONOSCO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = FALE CONOSCO
+
+### Image
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.url = skin/Image_431B85D3_4C07_762D_41D5_D99ABD1F917C_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual no Residencial Costa Verde
+
+### Title
+tour.name = Residencial Costa Verde
